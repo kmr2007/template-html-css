@@ -1,0 +1,18 @@
+h1 {
+  color: darkmagenta;
+  font-size: 44pt;
+  border: 2px solid green;
+}
+
+p {
+  text-decoration: underline;
+}
+
+img {
+  width: 200px;
+  border: 2px solid red;
+}
+
+.red {
+  color: red;
+}
